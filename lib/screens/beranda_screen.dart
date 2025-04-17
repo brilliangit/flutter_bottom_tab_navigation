@@ -1,0 +1,17 @@
+import 'package:flutter/material.dart';
+
+class BerandaScreen extends StatelessWidget {
+  const BerandaScreen({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Beranda'),
+      ),
+      body: const Center(
+        child: Text('Ini adalah halaman Beranda'),
+      ),
+    );
+  }
+}
