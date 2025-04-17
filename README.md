@@ -1,6 +1,6 @@
-# bottom_tab_navigation
+# Flutter Bottom Tab Navigation
 
-A new Flutter project.
+Learn FLutter
 
 ## Getting Started
 
